@@ -1,6 +1,6 @@
 # Pizza Order System (C# WinForms) 🍕  
 
-![C#](https://img.shields.io/badge/Language-C%23-blue) ![WinForms](https://img.shields.io/badge/Framework-WinForms-green)  
+![C#](https://img.shields.io/badge/Language-C%23-blue) ![.NET Framework](https://img.shields.io/badge/Framework-.NET%20Framework-blue)
 
 This is a simple **Pizza Ordering application** built with **C# WinForms**.  
 It allows users to select pizza size, crust type, and multiple toppings, calculates the total price, and lets the user confirm the order.
@@ -41,6 +41,15 @@ git clone https://github.com/Ibrahim-Abu-Assad/PizzaOrderApp-CSharp-WinForms.git
 - **bin/** and **obj/** — Compiled output files (not included in the repository).
 
   ---
+
+  ## Future Improvements
+
+- Save orders to a local database  
+- Add more toppings dynamically  
+- Improve UI with modern controls  
+- Generate printable receipts
+
+---
 
   ## Author
 
