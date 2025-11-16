@@ -1,0 +1,10 @@
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\bin\Debug\PizzaAgain[Course14].exe.config
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\bin\Debug\PizzaAgain[Course14].exe
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\bin\Debug\PizzaAgain[Course14].pdb
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\obj\Debug\PizzaAgain[Course14].csproj.AssemblyReference.cache
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\obj\Debug\PizzaAgain_Course14_.Form1.resources
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\obj\Debug\PizzaAgain_Course14_.Properties.Resources.resources
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\obj\Debug\PizzaAgain[Course14].csproj.GenerateResource.cache
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\obj\Debug\PizzaAgain[Course14].csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\obj\Debug\PizzaAgain[Course14].exe
+C:\Users\PRO\source\repos\PizzaAgain[Course14]\obj\Debug\PizzaAgain[Course14].pdb
